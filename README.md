@@ -6,4 +6,4 @@ Objective of the project was to compare 5 different models, to establish which i
 
 Models compared were Decision Tree, Random Forest, Logistic Regression, K-Nearest Neighbour and Support Vector Machines.
 
-Resulting grade: 82.5%
+Resulting grade: 82.5% (Distinction)
